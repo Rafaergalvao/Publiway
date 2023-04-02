@@ -56,7 +56,7 @@
 	height: 40px;
 	width: 150px;
 	border-radius: 7px;
-	font-size: 14px;
+	font-size: 1.7vh;
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
@@ -76,7 +76,7 @@
 }
 .nav-link {
 	text-decoration: none;
-	font-size: 14px;
+	font-size: 1.7vh;
 	font-weight: 400;
 	color: #838383;
 }
