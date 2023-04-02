@@ -252,7 +252,7 @@
 	flex-direction: row;
 }
 .texto_sobre{
-	font-size: 2.2vh;
+	font-size: 22px;
 	color: #4F4F4F;
 	width: 50vh;
 	min-width: 50vh;
@@ -346,7 +346,7 @@
 	flex-wrap: wrap;
 }
 .rodape_conteudo{
-	font-size: 14px;
+	font-size: 18px;
 	color: #646464;
 	cursor: pointer;
 	text-decoration: none;
@@ -482,7 +482,7 @@
 }
 .texto_contato{
 	color: #646464;
-	font-size: 15px;
+	font-size: 18px;
 }
 .termos{
 	text-decoration: none;
@@ -519,7 +519,7 @@
 }
 .texto_class{
 	color: #646464;
-	font-size: 15px;
+	font-size: 18px;
 }
 .titulo_cases{
 	color: #8A53F5;
